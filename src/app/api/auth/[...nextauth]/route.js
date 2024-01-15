@@ -8,8 +8,8 @@ import User from "@/models/User";
 const handler = NextAuth({
   providers: [
     GoogleProvider({
-      clientId: "712508071750-amak6mbf6250eb4f28cdk13miln0631b.apps.googleusercontent.com",
-      clientSecret: "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",
+      clientId: "",
+      clientSecret: "",
     }),
     CredentialsProvider({
       id: "credentials",
