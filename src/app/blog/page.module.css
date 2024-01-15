@@ -1,0 +1,33 @@
+/*
+This separation is important because it makes sure that the styles you define for one page don't accidentally affect another page. Just like you wouldn't want your party clothes mixed up with your gym clothes, you wouldn't want the styles for one page to mess up the styles on another page.
+
+So, the page.module.css file in Next.js lets you create unique and organized styles for each web page. It's all about making your web pages look great and feel like they belong to your own special corner of the internet!
+*/
+
+.container{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    margin-bottom: 50px;
+}
+
+
+.image{
+    object-fit: cover;
+}
+
+
+.content{
+
+}
+
+
+.title{
+    margin-bottom: 10px;
+}
+
+
+.desc{
+    font-size: 18px;
+    color: #999;
+}
