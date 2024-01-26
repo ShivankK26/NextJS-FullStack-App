@@ -18,7 +18,7 @@ Welcome to our Next.js fullstack project, where you can seamlessly create and up
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ShivankK26/nextjs-fullstack-app.git
+git clone https://github.com/ShivankK26/NextJS-FullStack-App.git
 cd nextjs-fullstack-app
 ```
 
